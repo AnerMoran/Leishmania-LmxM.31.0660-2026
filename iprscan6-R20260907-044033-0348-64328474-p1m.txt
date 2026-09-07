@@ -1,0 +1,31 @@
+##gff-version 3.1.26
+##interpro-version 110.0
+##interproscan-version 6.0.2
+##sequence-region Sequence1 1 209
+Sequence1	CATH-FunFam	polypeptide_domain	46	203	1.3E-22	.	.	Name=G3DSA:1.10.238.10:FF:000001;type=Region;representative=false
+Sequence1	CATH-Gene3D	polypeptide_domain	41	126	5.7E-14	.	.	Name=G3DSA:1.10.238.10;Dbxref=InterPro:IPR011992;type=Homologous_superfamily;representative=true
+Sequence1	CATH-Gene3D	polypeptide_domain	127	209	6.6E-12	.	.	Name=G3DSA:1.10.238.10;Dbxref=InterPro:IPR011992;type=Homologous_superfamily;representative=true
+Sequence1	PANTHER	polypeptide_region	49	169	3.0E-21	.	.	Name=PTHR23048;Dbxref=InterPro:IPR050230;Ontology_term=GO:0016460;type=Family;representative=true
+Sequence1	PIRSR	polypeptide_region	95	168	1.1E-4	.	.	Name=PIRSR608080-1;Alias=PIRSR608080-1;type=Region;representative=false
+Sequence1	PROSITE profiles	polypeptide_domain	50	85	11.33333	.	.	Name=EF_HAND_2;Alias=PS50222;Dbxref=InterPro:IPR002048;Ontology_term=GO:0005509;type=Domain;representative=false
+Sequence1	PROSITE profiles	polypeptide_domain	123	158	11.584389	.	.	Name=EF_HAND_2;Alias=PS50222;Dbxref=InterPro:IPR002048;Ontology_term=GO:0005509;type=Domain;representative=false
+Sequence1	SMART	polypeptide_domain	54	82	1.8	.	.	Name=EFh;Alias=SM00054;Dbxref=InterPro:IPR002048;Ontology_term=GO:0005509;type=Domain;representative=false
+Sequence1	SMART	polypeptide_domain	127	155	0.94	.	.	Name=EFh;Alias=SM00054;Dbxref=InterPro:IPR002048;Ontology_term=GO:0005509;type=Domain;representative=false
+Sequence1	SUPERFAMILY	polypeptide_domain	38	204	1.28E-27	.	.	Name=SSF47473;Dbxref=InterPro:IPR011992;type=Homologous_superfamily;representative=false
+Sequence1	InterPro-N	polypeptide_domain	47	208	0.9922343	.	.	Name=G3DSA:1.10.238.10;Dbxref=CATH-Gene3D:G3DSA:1.10.238.10;representative=false
+Sequence1	InterPro-N	polypeptide_region	48	202	0.9811574	.	.	Name=PTHR23048;Dbxref=PANTHER:PTHR23048;representative=false
+Sequence1	InterPro-N	polypeptide_domain	54	115	0.7558127	.	.	Name=cd00051;Dbxref=CDD:cd00051;representative=false
+Sequence1	InterPro-N	polypeptide_domain	50	85	0.99394155	.	.	Name=PS50222;Dbxref=PROSITE profiles:PS50222;representative=false
+Sequence1	InterPro-N	polypeptide_domain	123	158	0.99962974	.	.	Name=PS50222;Dbxref=PROSITE profiles:PS50222;representative=false
+Sequence1	InterPro-N	polypeptide_domain	54	82	0.9828312	.	.	Name=SM00054;Dbxref=SMART:SM00054;representative=false
+Sequence1	InterPro-N	polypeptide_domain	90	118	0.60554075	.	.	Name=SM00054;Dbxref=SMART:SM00054;representative=false
+Sequence1	InterPro-N	polypeptide_domain	127	155	0.9900057	.	.	Name=SM00054;Dbxref=SMART:SM00054;representative=false
+Sequence1	InterPro-N	polypeptide_region	53	116	0.8299327	.	.	Name=PF13499;Dbxref=Pfam:PF13499;representative=false
+Sequence1	InterPro-N	polypeptide_region	127	176	0.7850916	.	.	Name=PF13499;Dbxref=Pfam:PF13499;representative=false
+Sequence1	InterPro-N	polypeptide_domain	47	204	0.9951592	.	.	Name=SSF47473;Dbxref=SUPERFAMILY:SSF47473;representative=false
+##FASTA
+>Sequence1
+MSTAAEKGPRKGTIKSAKCSIVSAALGTDAKHTATPSPFTPATLLEVPPEYKQQLRQAFD
+KFDDSGKGFIPAHEAVVALYALGYDVGNAELQQLLQEVGAAGAESIDFNDFYNVLVLRMS
+KKESKTESVRAFKHMDRDDKGYIGLEDLRSMADSLHMNLTDDELSEMIQFARSVGYHAPA
+QGQSEFDARDTLAVSEAEYLRLMKRANVY
